@@ -350,3 +350,14 @@ docker image prune -a
 - DynamoDBでデータを保存する
 - AWS CLIをMacにセットアップする
 - CloudFrontでS3をHTTPS化する
+
+---
+
+## 学習ガイド
+
+| ドキュメント | 内容 |
+|-------------|------|
+| [学習プラン](learning_plan.md) | フェーズ別の学習内容と成果物 |
+| [ロードマップ](roadmap.md) | 学習フロー図とスケジュール |
+| [スキルマップ](skill_map.md) | AWS サービス別の習熟状況一覧 |
+| [スキルレベル基準表](skill_level_criteria.md) | Lv1〜Lv4 の習熟度定義 |
